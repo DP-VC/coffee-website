@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/coffee-website",
-  assetPrefix: "/coffee-website",
+  basePath: "/culturescoffee",
+  assetPrefix: "/culturescoffee",
   images: {
     unoptimized: true,
   },
