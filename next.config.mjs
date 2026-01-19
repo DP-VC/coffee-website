@@ -2,6 +2,7 @@
 const nextConfig = {
   output: "export",
   basePath: "/coffee-website",
+  assetPrefix: "/coffee-website",
   images: {
     unoptimized: true,
   },
