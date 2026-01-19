@@ -6,7 +6,7 @@ import Preloader from "./Preloader";
 import ScrollText from "./ScrollText";
 
 const TOTAL_FRAMES = 154;
-const FRAME_PATH = "/sequence/ezgif-frame-";
+const FRAME_PATH = "/coffee-website/sequence/ezgif-frame-";
 
 // Generate frame URLs
 const getFrameUrl = (index: number): string => {
